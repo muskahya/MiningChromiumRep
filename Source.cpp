@@ -11,10 +11,7 @@
 #include <algorithm>    
 using namespace std;
 
-struct commits{
-	string commit;
-	map<int, string> author;
-};
+
 
 struct author{
 	string auth;
