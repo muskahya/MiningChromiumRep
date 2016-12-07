@@ -9,4 +9,4 @@ To run the code the Source.cpp file and input.txt file which is inside of the li
 Compilation = g++ -std=c++11 Source.cpp or  use Microsoft Visual Studio
 
 # Presentation
-Presentation is available on this youtube link: https://www.youtube.com/watch?v=LjEkhXFbn8U
+Presentation (in Turkish) is available on this youtube link: https://www.youtube.com/watch?v=LjEkhXFbn8U
